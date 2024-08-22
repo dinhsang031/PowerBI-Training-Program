@@ -1,5 +1,6 @@
 # PowerBI-Training-Program
 Chương trình đào tạo Power BI - Tạo báo cáo tự động - Level Begining
+
 I.	GIỚI THIỆU KHÓA HỌC
 Khóa học "Power BI – Tạo báo cáo tự động” với 16 giờ đào tạo sẽ giúp bạn khám phá sâu hơn về dữ liệu và làm thế nào để tận dụng công cụ phân tích dữ - trực quan hóa dữ liệu mạnh mẽ từ Microsoft - Power BI. Từ việc kết nối các nguồn dữ liệu, xử lý dữ liệu lớn đến xây dựng các báo cáo và tự động hóa công việc bằng Dashboard, bạn sẽ được hướng dẫn bước từng bước để tạo ra những phân tích dữ liệu của riêng mình góp phần đưa ra quyết định dựa trên dữ liệu trong công việc của bạn.
 
