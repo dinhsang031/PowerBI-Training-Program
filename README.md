@@ -18,52 +18,52 @@ III.	METHODS OF TRAINING - PHƯƠNG PHÁP ĐÀO TẠO
  
 IV.	PROGRAM CONTENTS - NỘI DUNG KHÓA HỌC
 Bài 1. Giới thiệu Khái niệm Phân tích dữ liệu & Ứng dụng Microsoft Power Bi.
-1.	Khái niệm Phân tích dữ liệu
-2.	Power BI là gì?
-3.	Kết nối các nguồn dữ liệu 
-4.	Bài tập
+   1.	Khái niệm Phân tích dữ liệu
+   2.	Power BI là gì?
+   3.	Kết nối các nguồn dữ liệu 
+   4.	Bài tập
 Bài 2. Thiết lập PBI & Làm sạch dữ liệu Power Query
-1.	Thiết lập PBI Desktop
-2.	Các thao tác làm sạch dữ liệu
-•	Tạo hình cho bảng
-•	Làm sạch dữ liệu sai logic
-3.	Tài liệu tham khảo làm sạch dữ liệu
-4.	Bài tập
+   1.	Thiết lập PBI Desktop
+   2.	Các thao tác làm sạch dữ liệu
+   •	Tạo hình cho bảng
+   •	Làm sạch dữ liệu sai logic
+   3.	Tài liệu tham khảo làm sạch dữ liệu
+   4.	Bài tập
 Bài 3. Xây dựng mô hình dữ liệu(Data Model)
-1.	Giới thiệu Data Model
-2.	Merged Queries
-3.	Khóa chính – Khóa phụ
-4.	Cách tạo Data Model
-5.	Bài tập – SCM Dashboard 1
+  1.	Giới thiệu Data Model
+  2.	Merged Queries
+  3.	Khóa chính – Khóa phụ
+  4.	Cách tạo Data Model
+  5.	Bài tập – SCM Dashboard 1
 Bài 4. Xây dựng mô hình dữ liệu – Chuẩn hóa dữ liệu 
-1.	Chuẩn hóa dữ liệu là gì?
-2.	Xác địch mục đích Flat Table
-3.	Phân tích bảng thành Dim, Fact
-4.	UnPivot
-5.	Cột tính toán (Calculated Columns)
-6.	Bài tập – SCM Dashboard 2
- 
+  1.	Chuẩn hóa dữ liệu là gì?
+  2.	Xác địch mục đích Flat Table
+  3.	Phân tích bảng thành Dim, Fact
+  4.	UnPivot
+  5.	Cột tính toán (Calculated Columns)
+  6.	Bài tập – SCM Dashboard 2
+
 Bài 5. Tính toán tạo chỉ số trong Power BI (DAX)
-1.	Giới thiệu về DAX
-2.	Cột tính toán sử dụng DAX
-3.	Tạo Measure
-4.	Tạo Calculated Table – Dim Date
-5.	Bài tập – SCM Dashboard 3
+  1.	Giới thiệu về DAX
+  2.	Cột tính toán sử dụng DAX
+  3.	Tạo Measure
+  4.	Tạo Calculated Table – Dim Date
+  5.	Bài tập – SCM Dashboard 3
 Bài 6. DAX Nâng cao
-1.	Tính toán Measure nhiều bước
-2.	Format Measure, Cột
-3.   DAX Calculate
-4.   DAX Time Intelligence
-5.   Bài tập – SCM Dashboard 4
+  1.	Tính toán Measure nhiều bước
+  2.	Format Measure, Cột
+  3.   DAX Calculate
+  4.   DAX Time Intelligence
+  5.   Bài tập – SCM Dashboard 4
 Bài 7. Tạo báo cáo Dashboard
-1.	Lọc báo cáo với Slicer
-2.	Sắp xếp dữ liệu trên biểu đồ
-3.	Lọc với Filter Pane
-4.	Tiện ích thêm với Filer
-5.    Bài tập – SCM Dashboard 5
+  1.	Lọc báo cáo với Slicer
+  2.	Sắp xếp dữ liệu trên biểu đồ
+  3.	Lọc với Filter Pane
+  4.	Tiện ích thêm với Filer
+  5. Bài tập – SCM Dashboard 5
 Bài 8. Tạo báo cáo Dashboard 2
-1.	Fomat Biểu đồ
-2.	Conditional Formating
-3.	Thiết kế báo cáo Story Telling
-4.	Hoàn tất – SCM Dashboard 6 (Final)
+  1.	Fomat Biểu đồ
+  2.	Conditional Formating
+  3.	Thiết kế báo cáo Story Telling
+  4.	Hoàn tất – SCM Dashboard 6 (Final)
 
