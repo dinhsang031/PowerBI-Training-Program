@@ -1,5 +1,4 @@
 # POWER BI TRAINING PROGRAM
-------------------------------
 _**TRAINER: NGUYỄN ĐÌNH SANG**_
 ------------------------------
 Chương trình đào tạo Power BI - Tạo báo cáo tự động - Level Begining
